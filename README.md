@@ -21,6 +21,9 @@ The program uses a linked list to store each character of the word. A rotate fun
 - LinkedList.h
 - LinkedList.cpp
 - main.cpp
+- 3 Test Screenshots (piglatintest_1,piglatintest_2,piglatintest_3)
+- UML and Use Case Diagram (PigLatinDiagrams.drawio.pdf)
+- Pseudocode
 
 ## How to Compile
 Use this command in the terminal:
@@ -50,10 +53,3 @@ Input:
 school  
 Output:
 oolschay  
-
-## Design Documentation
-This repository includes:
-- Pseudocode
-- UML Class Diagram
-- Use Case Diagram
-- 3 Test Case Screenshots
