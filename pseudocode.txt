@@ -1,0 +1,25 @@
+Start Program
+
+Ask user to enter a word
+Read the word
+
+Create an empty linked list
+
+For each letter in the word
+    Add letter to the linked list
+End for
+
+Save the first letter of the word
+
+If the first letter is a vowel
+    Display word + "way"
+Else
+    While the first letter of the linked list is not a vowel
+        Move first letter to the end of the list (rotate)
+    End while
+
+    Convert the linked list back into a word
+    Display the new word + "ay"
+End if
+
+End Program
